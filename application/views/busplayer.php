@@ -18,6 +18,11 @@
             <source src="<?php if (isset($cliptoplay) && $cliptoplay != ''){echo $cliptoplay;} ?>">
             <script type="text/javascript">
               $(document).ready(function(){
+                <?php
+                    if (!isset($cliptoplay) || $cliptoplay == ''){
+                        echo 'setTimeout(function(){window.location.reload(1);}, 5000);';
+                    }
+                ?>
                 $('video').on('ended',function(){
                   <?php
                     if (isset($clipid) && $clipid != ''){
