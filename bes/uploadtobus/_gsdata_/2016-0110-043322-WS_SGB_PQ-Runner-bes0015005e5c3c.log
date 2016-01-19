@@ -1,0 +1,28 @@
+2016-01-10 04:33:23: -- Analysis Started by Periodic Timer, Under Runner
+2016-01-10 04:33:23: bes0015005e5c3c: ANALYSIS started by Periodic Timer, Under Runner on 'WS_SGB_PQ' (GoodSync 9.9.13.5)
+2016-01-10 04:33:23: C:\BES2016\ADSCLIPS (C:/BES2016/ADSCLIPS) [TmpDest] [NoGsData] <-> \\BES0015005E5C3C\uploadtobus (//BES0015005E5C3C/uploadtobus) [TmpDest], SavePrevVers, CleanupPrevVers=30d, SyncWorkerThreads=4, LinksCopy, ReconnectSecs=120, ResolveConflicts=NewerFileWins
+2016-01-10 04:33:23: Exclude Hidden, Exclude System, Exclude licens*.rfo|cache.rfo|mru.rfo|mpp*.rfo|RoboForm Online Account.rfp|name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2016-01-10 04:33:23: Locking folder C:/BES2016/ADSCLIPS for write
+2016-01-10 04:33:23: L: Read state from mirror C:/Users/workstation/AppData/Roaming/GoodSync/_mirrors_/C-BES2016-ADSCLIPS/_file_state_v4._gs
+2016-01-10 04:33:23: L: Files: 18 (excluded 0). Folders: 0 (excluded 0). Times (s): Folder Scan: 0.016 (1125 f/s), Compare: 0.000 C: NTFS, Free: 33.5 GB, Total: 59.5 GB
+2016-01-10 04:33:23: Locking folder //BES0015005E5C3C/uploadtobus for write
+2016-01-10 04:33:23: Give up on SetFileOwner: file=//BES0015005E5C3C/uploadtobus/_gsdata_/lock.gsl smb=1 error=WinFileSys::SetFileOwnerIfYouCan: This security ID may not be assigned as the owner of this object.  (error 1307)
+2016-01-10 04:33:23: R: Reading State File //BES0015005E5C3C/uploadtobus/_gsdata_/_file_state_v4._gs
+2016-01-10 04:33:23: R: Files: 17 (excluded 0). Folders: 0 (excluded 1). Times (s): Folder Scan: 0.265 (67 f/s), Compare: 0.000 //BES0015005E5C3C/uploadtobus NTFS, Free: 45.0 GB, Total: 54.7 GB
+2016-01-10 04:33:23: On disk file:///C: space required for sync is 0 bytes, you have 33.5 GB
+2016-01-10 04:33:23: On disk smb://BES0015005E5C3C/uploadtobus space required for sync is 1.33 MB, you have 45.0 GB
+2016-01-10 04:33:23: Changes: 1, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 31
+2016-01-10 04:33:23: Left to Right: Copy File: 1 
+2016-01-10 04:33:23: -- Analysis Complete. Time 00:00:01, Speed: 19 files/s
+2016-01-10 04:33:23: == Sync Started by Periodic Timer, Under Runner
+2016-01-10 04:33:23: bes0015005e5c3c: SYNC started by Periodic Timer, Under Runner on 'WS_SGB_PQ'
+2016-01-10 04:33:23: C:\BES2016\ADSCLIPS (C:/BES2016/ADSCLIPS) [TmpDest] [NoGsData] <-> \\BES0015005E5C3C\uploadtobus (//BES0015005E5C3C/uploadtobus) [TmpDest], SavePrevVers, CleanupPrevVers=30d, SyncWorkerThreads=4, LinksCopy, ReconnectSecs=120, ResolveConflicts=NewerFileWins
+2016-01-10 04:33:23: Start only 1 threads, limited by tasks to run
+2016-01-10 04:33:25: Give up on SetFileOwner: file=//BES0015005E5C3C/uploadtobus/_gsdata_/ae39170f21725818e2589c45be5025a3._gstmp smb=1 error=WinFileSys::SetFileOwnerIfYouCan: This security ID may not be assigned as the owner of this object.  (error 1307)
+2016-01-10 04:33:25: Copy New 'C:/BES2016/ADSCLIPS/Ud53rJkKABw6nleE.mp4' -> '//BES0015005E5C3C/uploadtobus/Ud53rJkKABw6nleE.mp4'
+2016-01-10 04:33:25: Save State File C:/Users/workstation/AppData/Roaming/GoodSync/_mirrors_/C-BES2016-ADSCLIPS/_file_state_v4._gs
+2016-01-10 04:33:25: Save State File //BES0015005E5C3C/uploadtobus/_gsdata_/_file_state_v4._gs
+2016-01-10 04:33:25: == Sync Complete. Time: 00:00:02, Speed: 684 KB/s, OK: 1, Errors: 0
+2016-01-10 04:33:25: Unlocking mirror folder C:/Users/workstation/AppData/Roaming/GoodSync/_mirrors_/C-BES2016-ADSCLIPS/lock.gsl
+2016-01-10 04:33:25: Unlocking folder //BES0015005E5C3C/uploadtobus/_gsdata_/lock.gsl
+2016-01-10 04:33:25: 

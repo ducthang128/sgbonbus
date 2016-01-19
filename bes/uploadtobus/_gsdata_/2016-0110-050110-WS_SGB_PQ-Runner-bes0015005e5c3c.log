@@ -1,0 +1,37 @@
+2016-01-10 05:01:10: -- Analysis Started by Periodic Timer, Under Runner
+2016-01-10 05:01:10: bes0015005e5c3c: ANALYSIS started by Periodic Timer, Under Runner on 'WS_SGB_PQ' (GoodSync 9.9.13.5)
+2016-01-10 05:01:10: C:\BES2016\ADSCLIPS (C:/BES2016/ADSCLIPS) [TmpDest] [NoGsData] <-> \\BES0015005E5C3C\uploadtobus (//BES0015005E5C3C/uploadtobus) [TmpDest], SavePrevVers, CleanupPrevVers=30d, SyncWorkerThreads=4, LinksCopy, ReconnectSecs=120, ResolveConflicts=NewerFileWins
+2016-01-10 05:01:10: Exclude Hidden, Exclude System, Exclude licens*.rfo|cache.rfo|mru.rfo|mpp*.rfo|RoboForm Online Account.rfp|name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2016-01-10 05:01:10: Locking folder C:/BES2016/ADSCLIPS for write
+2016-01-10 05:01:10: L: Read state from mirror C:/Users/workstation/AppData/Roaming/GoodSync/_mirrors_/C-BES2016-ADSCLIPS/_file_state_v4._gs
+2016-01-10 05:01:10: L: Files: 8 (excluded 0). Folders: 0 (excluded 0). Times (s): Folder Scan: 0.016 (500 f/s), Compare: 0.000 C: NTFS, Free: 33.5 GB, Total: 59.5 GB
+2016-01-10 05:01:10: Locking folder //BES0015005E5C3C/uploadtobus for write
+2016-01-10 05:01:10: Give up on SetFileOwner: file=//BES0015005E5C3C/uploadtobus/_gsdata_/lock.gsl smb=1 error=WinFileSys::SetFileOwnerIfYouCan: This security ID may not be assigned as the owner of this object.  (error 1307)
+2016-01-10 05:01:10: R: Reading State File //BES0015005E5C3C/uploadtobus/_gsdata_/_file_state_v4._gs
+2016-01-10 05:01:10: R: Files: 17 (excluded 0). Folders: 0 (excluded 1). Times (s): Folder Scan: 0.265 (67 f/s), Compare: 0.015 //BES0015005E5C3C/uploadtobus NTFS, Free: 45.0 GB, Total: 54.7 GB
+2016-01-10 05:01:10: On disk file:///C: space required for sync is 0 bytes, you have 33.5 GB
+2016-01-10 05:01:10: On disk smb://BES0015005E5C3C/uploadtobus space required for sync is 0 bytes, you have 45.0 GB
+2016-01-10 05:01:10: Changes: 9, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 31
+2016-01-10 05:01:10: Left to Right: Delete File: 9 
+2016-01-10 05:01:10: -- Analysis Complete. Time 00:00:00, Speed: Many files/s
+2016-01-10 05:01:10: == Sync Started by Periodic Timer, Under Runner
+2016-01-10 05:01:10: bes0015005e5c3c: SYNC started by Periodic Timer, Under Runner on 'WS_SGB_PQ'
+2016-01-10 05:01:10: C:\BES2016\ADSCLIPS (C:/BES2016/ADSCLIPS) [TmpDest] [NoGsData] <-> \\BES0015005E5C3C\uploadtobus (//BES0015005E5C3C/uploadtobus) [TmpDest], SavePrevVers, CleanupPrevVers=30d, SyncWorkerThreads=4, LinksCopy, ReconnectSecs=120, ResolveConflicts=NewerFileWins
+2016-01-10 05:01:11: Load Recycled DB: //BES0015005E5C3C/uploadtobus/_gsdata_/_recycled_db._gs
+2016-01-10 05:01:11: Delete File '//BES0015005E5C3C/uploadtobus/67dS5xIv9RwpHX1r.mp4'
+2016-01-10 05:01:11: Delete File '//BES0015005E5C3C/uploadtobus/8Iuv6FUgBSHmDyjp.mp4'
+2016-01-10 05:01:11: Delete File '//BES0015005E5C3C/uploadtobus/cvwkFD2LtQJebSlr.mp4'
+2016-01-10 05:01:11: Delete File '//BES0015005E5C3C/uploadtobus/d6OFS21VmcXgCZUW.mp4'
+2016-01-10 05:01:11: Delete File '//BES0015005E5C3C/uploadtobus/dvQxCtUyuwcPo5TX.mp4'
+2016-01-10 05:01:11: Delete File '//BES0015005E5C3C/uploadtobus/fXQIptCwVL0hY7rE.mp4'
+2016-01-10 05:01:11: Delete File '//BES0015005E5C3C/uploadtobus/KFX4wPU9ZuLAGMC6.mp4'
+2016-01-10 05:01:11: Delete File '//BES0015005E5C3C/uploadtobus/Paoxn86khuLOqCm2.mp4'
+2016-01-10 05:01:11: Delete File '//BES0015005E5C3C/uploadtobus/RiBp1zSUMY2g7yX0.mp4'
+2016-01-10 05:01:11: Start only 0 threads, limited by tasks to run
+2016-01-10 05:01:11: Save State File C:/Users/workstation/AppData/Roaming/GoodSync/_mirrors_/C-BES2016-ADSCLIPS/_file_state_v4._gs
+2016-01-10 05:01:11: Save State File //BES0015005E5C3C/uploadtobus/_gsdata_/_file_state_v4._gs
+2016-01-10 05:01:11: Save Recycled DB: //BES0015005E5C3C/uploadtobus/_gsdata_/_recycled_db._gs
+2016-01-10 05:01:11: == Sync Complete. Time: 00:00:01, Speed: 4.00 KB/s, OK: 9, Errors: 0
+2016-01-10 05:01:11: Unlocking mirror folder C:/Users/workstation/AppData/Roaming/GoodSync/_mirrors_/C-BES2016-ADSCLIPS/lock.gsl
+2016-01-10 05:01:11: Unlocking folder //BES0015005E5C3C/uploadtobus/_gsdata_/lock.gsl
+2016-01-10 05:01:11: 

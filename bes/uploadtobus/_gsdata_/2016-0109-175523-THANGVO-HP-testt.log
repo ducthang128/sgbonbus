@@ -1,0 +1,30 @@
+2016-01-09 17:55:26: -- Analysis Started by User
+2016-01-09 17:55:26: L: State file does not exist: C:/BES-SGS/onBus/bes/uploadtobus/_gsdata_/_file_state_v4._gs
+2016-01-09 17:55:27: R: State file does not exist: gstp://bes0015005e5c3c/qhome://S0/uploadtobus/_gsdata_/_file_state_v4._gs
+2016-01-09 17:55:30: /index.php: Conflict: New files that differ
+2016-01-09 17:55:30: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2016-01-09 17:55:30: Changes: 15, Conflicts: 1, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 16
+2016-01-09 17:55:30: Right to Left: Copy File: 14 
+2016-01-09 17:55:30: -- Analysis Complete. Time 00:00:07, Speed: 2 files/s
+2016-01-09 17:55:30: 
+2016-01-09 17:55:46: === User Changed Action from 'CONFLICT' to 'COPY_RIGHT_TO_LEFT' on item /index.php
+2016-01-09 17:55:46: Done.
+2016-01-09 17:55:53: New _gsdata_ folder(s) created, so rescan all job folders for their ghosts
+2016-01-09 17:55:53: == Sync Started by User
+2016-01-09 17:55:53: Create Folder 'C:/BES-SGS/onBus/bes/uploadtobus/8o4PUaCLt0T7NMcw'
+2016-01-09 17:56:02: Copy New 'gstp://bes0015005e5c3c/qhome://S0/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_0.mp4' -> 'C:/BES-SGS/onBus/bes/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_0.mp4'
+2016-01-09 17:56:13: Copy New 'gstp://bes0015005e5c3c/qhome://S0/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_1.mp4' -> 'C:/BES-SGS/onBus/bes/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_1.mp4'
+2016-01-09 17:56:17: Copy New 'gstp://bes0015005e5c3c/qhome://S0/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_2.mp4' -> 'C:/BES-SGS/onBus/bes/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_2.mp4'
+2016-01-09 17:56:20: Copy New 'gstp://bes0015005e5c3c/qhome://S0/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_3.mp4' -> 'C:/BES-SGS/onBus/bes/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_3.mp4'
+2016-01-09 17:56:24: Copy New 'gstp://bes0015005e5c3c/qhome://S0/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_4.mp4' -> 'C:/BES-SGS/onBus/bes/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_4.mp4'
+2016-01-09 17:56:28: Copy New 'gstp://bes0015005e5c3c/qhome://S0/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_5.mp4' -> 'C:/BES-SGS/onBus/bes/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_5.mp4'
+2016-01-09 17:56:34: Copy New 'gstp://bes0015005e5c3c/qhome://S0/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_6.mp4' -> 'C:/BES-SGS/onBus/bes/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_6.mp4'
+2016-01-09 17:56:38: Copy New 'gstp://bes0015005e5c3c/qhome://S0/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_7.mp4' -> 'C:/BES-SGS/onBus/bes/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_7.mp4'
+2016-01-09 17:56:42: Copy New 'gstp://bes0015005e5c3c/qhome://S0/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_8.mp4' -> 'C:/BES-SGS/onBus/bes/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_8.mp4'
+2016-01-09 17:56:45: Copy New 'gstp://bes0015005e5c3c/qhome://S0/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_9.mp4' -> 'C:/BES-SGS/onBus/bes/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_9.mp4'
+2016-01-09 17:57:31: Copy New 'gstp://bes0015005e5c3c/qhome://S0/uploadtobus/8o4PUaCLt0T7NMcw.mp4' -> 'C:/BES-SGS/onBus/bes/uploadtobus/8o4PUaCLt0T7NMcw.mp4'
+2016-01-09 17:57:31: Copy Over 'gstp://bes0015005e5c3c/qhome://S0/uploadtobus/index.php' -> 'C:/BES-SGS/onBus/bes/uploadtobus/index.php' (User Action)
+2016-01-09 17:57:31: Copy New 'gstp://bes0015005e5c3c/qhome://S0/uploadtobus/index.php~' -> 'C:/BES-SGS/onBus/bes/uploadtobus/index.php~'
+2016-01-09 17:57:31: Copy New 'gstp://bes0015005e5c3c/qhome://S0/uploadtobus/info.log' -> 'C:/BES-SGS/onBus/bes/uploadtobus/info.log'
+2016-01-09 17:57:31: == Sync Complete. Time: 00:01:38, Speed: 113 KB/s, OK: 15, Errors: 0
+2016-01-09 17:57:31: 

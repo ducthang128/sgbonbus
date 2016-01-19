@@ -1,0 +1,50 @@
+2016-01-09 19:01:27: Give up on SetFileOwner: file=//BES0015005E5C3C/uploadtobus/_gsdata_ smb=1 error=WinFileSys::SetFileOwnerIfYouCan: This security ID may not be assigned as the owner of this object.  (error 1307)
+2016-01-09 19:01:27: -- Analysis Started by Periodic Timer, Under Runner
+2016-01-09 19:01:27: bes0015005e5c3c: ANALYSIS started by Periodic Timer, Under Runner on 'WS_SGB_PQ' (GoodSync 9.9.13.5)
+2016-01-09 19:01:27: C:\BES2016\ADSCLIPS (C:/BES2016/ADSCLIPS) [TmpDest] [NoGsData] <-> \\BES0015005E5C3C\uploadtobus (//BES0015005E5C3C/uploadtobus) [TmpDest], SavePrevVers, CleanupPrevVers=30d, SyncWorkerThreads=4, LinksCopy, ReconnectSecs=120, ResolveConflicts=NewerFileWins
+2016-01-09 19:01:27: Exclude Hidden, Exclude System, Exclude licens*.rfo|cache.rfo|mru.rfo|mpp*.rfo|RoboForm Online Account.rfp|name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2016-01-09 19:01:27: Locking folder C:/BES2016/ADSCLIPS for write
+2016-01-09 19:01:27: L: Read state from mirror C:/Users/workstation/AppData/Roaming/GoodSync/_mirrors_/C-BES2016-ADSCLIPS/_file_state_v4._gs
+2016-01-09 19:01:27: L: Files: 14 (excluded 0). Folders: 1 (excluded 0). Times (s): Folder Scan: 0.010 (1500 f/s), Compare: 0.000 C: NTFS, Free: 33.6 GB, Total: 59.5 GB
+2016-01-09 19:01:27: Locking folder //BES0015005E5C3C/uploadtobus for write
+2016-01-09 19:01:27: R: Reading State File //BES0015005E5C3C/uploadtobus/_gsdata_/_file_state_v4._gs
+2016-01-09 19:01:27: Not using/deleting cached state file, because remote state file has changed since last Sync:
+State file: //BES0015005E5C3C/uploadtobus/_gsdata_/_file_state_v4._gs
+name= folder=0 link=0 file=0 attrs=0 size=-1 mod-time=(null-time) cre-time=(null-time) ab=0 dsply= cmnt= != 
+
+2016-01-09 19:01:27: R: State file does not exist: //BES0015005E5C3C/uploadtobus/_gsdata_/_file_state_v4._gs
+2016-01-09 19:01:27: R: Files: 1 (excluded 0). Folders: 0 (excluded 1). Times (s): Folder Scan: 0.110 (18 f/s), Compare: 0.000 //BES0015005E5C3C/uploadtobus NTFS, Free: 45.2 GB, Total: 54.7 GB
+2016-01-09 19:01:28: On disk file:///C: space required for sync is 0 bytes, you have 33.6 GB
+2016-01-09 19:01:28: On disk smb://BES0015005E5C3C/uploadtobus space required for sync is 10.9 MB, you have 45.2 GB
+2016-01-09 19:01:28: Changes: 14, Conflicts: 0, CopyTime: 0, CopyState: 1/0, Errors: 0, All: 16
+2016-01-09 19:01:28: Left to Right: Copy File: 14 Copy State: 1 
+2016-01-09 19:01:28: -- Analysis Complete. Time 00:00:01, Speed: 16 files/s
+2016-01-09 19:01:28: == Sync Started by Periodic Timer, Under Runner
+2016-01-09 19:01:28: bes0015005e5c3c: SYNC started by Periodic Timer, Under Runner on 'WS_SGB_PQ'
+2016-01-09 19:01:28: C:\BES2016\ADSCLIPS (C:/BES2016/ADSCLIPS) [TmpDest] [NoGsData] <-> \\BES0015005E5C3C\uploadtobus (//BES0015005E5C3C/uploadtobus) [TmpDest], SavePrevVers, CleanupPrevVers=30d, SyncWorkerThreads=4, LinksCopy, ReconnectSecs=120, ResolveConflicts=NewerFileWins
+2016-01-09 19:01:28: Copy State LtoR: /index.php
+2016-01-09 19:01:28: Create Folder '//BES0015005E5C3C/uploadtobus/8o4PUaCLt0T7NMcw'
+2016-01-09 19:01:45: Give up on SetFileOwner: file=//BES0015005E5C3C/uploadtobus/_gsdata_/8ec3027c741f03fbe76c53987381acc2._gstmp smb=1 error=WinFileSys::SetFileOwnerIfYouCan: This security ID may not be assigned as the owner of this object.  (error 1307)
+2016-01-09 19:01:46: Give up on SetFileOwner: file=//BES0015005E5C3C/uploadtobus/_gsdata_/ea235b1a50fdc1c731650d40f408c338._gstmp smb=1 error=WinFileSys::SetFileOwnerIfYouCan: This security ID may not be assigned as the owner of this object.  (error 1307)
+2016-01-09 19:01:46: Give up on SetFileOwner: file=//BES0015005E5C3C/uploadtobus/_gsdata_/16a0951d5e55f2449737b979035903ed._gstmp smb=1 error=WinFileSys::SetFileOwnerIfYouCan: This security ID may not be assigned as the owner of this object.  (error 1307)
+2016-01-09 19:01:46: Give up on SetFileOwner: file=//BES0015005E5C3C/uploadtobus/_gsdata_/067ce018f4992dd5cb695471e0bffa22._gstmp smb=1 error=WinFileSys::SetFileOwnerIfYouCan: This security ID may not be assigned as the owner of this object.  (error 1307)
+2016-01-09 19:01:46: Copy New 'C:/BES2016/ADSCLIPS/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_0.mp4' -> '//BES0015005E5C3C/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_0.mp4'
+2016-01-09 19:01:46: Copy New 'C:/BES2016/ADSCLIPS/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_1.mp4' -> '//BES0015005E5C3C/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_1.mp4'
+2016-01-09 19:01:48: Copy New 'C:/BES2016/ADSCLIPS/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_2.mp4' -> '//BES0015005E5C3C/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_2.mp4'
+2016-01-09 19:01:51: Copy New 'C:/BES2016/ADSCLIPS/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_3.mp4' -> '//BES0015005E5C3C/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_3.mp4'
+2016-01-09 19:01:55: Copy New 'C:/BES2016/ADSCLIPS/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_4.mp4' -> '//BES0015005E5C3C/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_4.mp4'
+2016-01-09 19:01:55: Copy New 'C:/BES2016/ADSCLIPS/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_5.mp4' -> '//BES0015005E5C3C/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_5.mp4'
+2016-01-09 19:02:01: Copy New 'C:/BES2016/ADSCLIPS/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_6.mp4' -> '//BES0015005E5C3C/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_6.mp4'
+2016-01-09 19:02:01: Copy New 'C:/BES2016/ADSCLIPS/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_7.mp4' -> '//BES0015005E5C3C/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_7.mp4'
+2016-01-09 19:02:43: Copy New 'C:/BES2016/ADSCLIPS/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_8.mp4' -> '//BES0015005E5C3C/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_8.mp4'
+2016-01-09 19:02:44: Copy New 'C:/BES2016/ADSCLIPS/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_9.mp4' -> '//BES0015005E5C3C/uploadtobus/8o4PUaCLt0T7NMcw/8o4PUaCLt0T7NMcw_splited_9.mp4'
+2016-01-09 19:02:44: Copy New 'C:/BES2016/ADSCLIPS/index.php~' -> '//BES0015005E5C3C/uploadtobus/index.php~'
+2016-01-09 19:02:44: Copy New 'C:/BES2016/ADSCLIPS/8o4PUaCLt0T7NMcw.mp4' -> '//BES0015005E5C3C/uploadtobus/8o4PUaCLt0T7NMcw.mp4'
+2016-01-09 19:02:44: Save State File C:/Users/workstation/AppData/Roaming/GoodSync/_mirrors_/C-BES2016-ADSCLIPS/_file_state_v4._gs
+2016-01-09 19:02:44: Save State File //BES0015005E5C3C/uploadtobus/_gsdata_/_file_state_v4._gs
+2016-01-09 19:02:44: Cleanup recycled files in //BES0015005E5C3C/uploadtobus/_gsdata_/_saved_
+2016-01-09 19:02:44: Cleanup old logs in //BES0015005E5C3C/uploadtobus/_gsdata_
+2016-01-09 19:02:44: == Sync Complete. Time: 00:01:16, Speed: 146 KB/s, OK: 14, Errors: 0
+2016-01-09 19:02:44: Unlocking mirror folder C:/Users/workstation/AppData/Roaming/GoodSync/_mirrors_/C-BES2016-ADSCLIPS/lock.gsl
+2016-01-09 19:02:44: Unlocking folder //BES0015005E5C3C/uploadtobus/_gsdata_/lock.gsl
+2016-01-09 19:02:44: 
